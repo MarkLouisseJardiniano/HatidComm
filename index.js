@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 // MongoDB connection
 
 const MONGODB_URI =
-  "mongodb+srv://Hatid:Hatid@cluster0.cg2euxr.mongodb.net/Hatid?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://Mawi:Mawi21@cluster0.twni9tv.mongodb.net/Hatid?retryWrites=true&w=majority&appName=Cluster0";
 
 mongoose
   .connect(MONGODB_URI)
